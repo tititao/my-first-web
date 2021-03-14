@@ -3,7 +3,7 @@ layout: post
 title:  "强棒天使队介绍"
 background: "/assets/images/img09.png"
 category: "团队"
-tags: 团队
+tags: 团队 feature
 ---
 
 
