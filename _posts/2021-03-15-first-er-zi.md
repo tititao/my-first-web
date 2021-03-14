@@ -3,7 +3,7 @@ layout: post
 title:  "我来自凉山"
 background: "/assets/images/001.jpg"
 category: "介绍"
-tags: 凉山彝族自治州
+tags: 凉山彝族自治州 feature
 ---  
 我是**海来尔子**，出生于2011年8月3日
 
