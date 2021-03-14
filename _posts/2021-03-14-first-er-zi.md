@@ -15,6 +15,7 @@ tags: 凉山彝族自治州
  
 ![海来尔子3](../assets/images/img3.jpg)   
 
-#### 了解更多      
+
+**了解更多**      
 官方微博: [强棒天使队](https://weibo.com/PBangels?is_all=1)     
 公众号: 强棒天使队 powerbaseballangels    
